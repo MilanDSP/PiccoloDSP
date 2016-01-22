@@ -220,7 +220,7 @@ void interrupt PER_int(void)
 
 
 		prev_integral = integral;
-
+// Milan :)
 		//duty = ref_value;
 
 		// osvežim vklono razmerje
