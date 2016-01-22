@@ -219,7 +219,7 @@ void interrupt PER_int(void)
 		}
 
 
-		prev_integral=integral;
+		prev_integral = integral;
 
 		//duty = ref_value;
 
